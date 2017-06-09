@@ -2019,10 +2019,6 @@ supports-color@^3.1.0, supports-color@^3.1.1:
   dependencies:
     has-flag "^1.0.0"
 
-svg-pan-zoom@ariutta/svg-pan-zoom:
-  version "3.5.1"
-  resolved "https://codeload.github.com/ariutta/svg-pan-zoom/tar.gz/ddbf517d5472eefa230b611561eb0b84b87d37f3"
-
 tapable@^0.2.5, tapable@~0.2.5:
   version "0.2.6"
   resolved "https://registry.yarnpkg.com/tapable/-/tapable-0.2.6.tgz#206be8e188860b514425375e6f1ae89bfb01fd8d"

@@ -2,7 +2,6 @@
   "name": "bentobots-editor",
   "version": "0.0.1",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,7 +15,6 @@
     "webpack-dev-server": "^2.4.5"
   },
   "dependencies": {
-    "cytoscape": "^3.1.1",
-    "svg-pan-zoom": "ariutta/svg-pan-zoom"
+    "cytoscape": "^3.1.1"
   }
 }
